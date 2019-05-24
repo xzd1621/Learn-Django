@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Django-2-by-Example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-by-example-book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-cms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/izone" vcs="Git" />
+  </component>
+</project>
